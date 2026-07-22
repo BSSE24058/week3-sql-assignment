@@ -1,12 +1,3 @@
--- ============================================================
--- Week 3 Assignment — Section 2 (MEDIUM) & Section 3 (HARD)
--- Author: Muhammad Abdul Rafay Khan (rafayykhan)
--- Tool:   MySQL Workbench
---
--- These queries run against the ready-made employees + departments
--- schema. FIRST run Section2_3_Schema.sql once to create the tables
--- and data, THEN run this file.  Do NOT edit the schema file.
--- ============================================================
 
 
 -- ============================================================
