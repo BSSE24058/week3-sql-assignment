@@ -1,12 +1,3 @@
--- ============================================================
--- Week 3 Assignment — Section 1 (EASY)
--- Author: Muhammad Abdul Rafay Khan (rafayykhan)
--- Tool:   MySQL Workbench
---
--- This file builds the `students` table from scratch, inserts
--- 10 rows, and answers all 10 Easy queries.
--- Run top-to-bottom in MySQL Workbench (or `SOURCE section1_queries.sql;`).
--- ============================================================
 
 -- ------------------------------------------------------------
 -- STEP 1 — Create the students table
